@@ -6,3 +6,5 @@
 * Ismael Jimenez
 * Susan Mundo
 * El k
+* Alfredo Sandoval
+* Maira Elena Sandoval
