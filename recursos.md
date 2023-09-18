@@ -1,0 +1,5 @@
+# Recursos
+
+* TV
+* PC
+* CPU
